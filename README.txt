@@ -27,7 +27,7 @@ text_generation_project/
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/text-generation-app.git
+git clone https://github.com/omrohitchannoji/Text_Generation.git
 cd text-generation-app
 
 ### 2. Create and activate a virtual environment
@@ -63,15 +63,13 @@ Add custom temperature and max-length sliders for control
 🧑‍💻 Author
 
 Your Name
-📧 [your.email@example.com
-]
-🌐 [your LinkedIn or GitHub profile link]
+📧 [omrohitchannoji7@gmail.com]
+🌐 [ linkedin : https://www.linkedin.com/in/omrohit/]
 
 ---
 
 ## 🧩 **requirements.txt**
-Here’s a standard setup for a Streamlit + text generation notebook:
-streamlit
+
 transformers
 torch
 tensorflow
@@ -81,7 +79,9 @@ scikit-learn
 matplotlib
 tqdm
 
-> ✅ If you know you only used specific libraries (e.g., `transformers` but not `tensorflow`), I can trim this list exactly to your setup.
+Here’s a standard setup for a Streamlit + text generation notebook:
+streamlit
 
 ---
+
 
