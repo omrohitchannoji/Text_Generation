@@ -26,7 +26,7 @@ text_generation_project/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone this repository
-```bash
+
 git clone https://github.com/omrohitchannoji/Text_Generation.git
 cd text-generation-app
 
@@ -41,17 +41,17 @@ pip install -r requirements.txt
 
 ### 4. Run the Streamlit app
 streamlit run app.py
-
+---
 🧠 Model Info
 
 The notebook text_generation.ipynb demonstrates how the text generation model was trained, tested, or fine-tuned.
 You can export or load your trained model in the Streamlit app for interactive use.
-
+---
 📦 Requirements
 
 All dependencies are listed in requirements.txt.
 Use pip install -r requirements.txt to install them.
-
+---
 💡 Future Enhancements
 
 Add multiple model options (GPT-2, LLaMA, etc.)
@@ -83,5 +83,6 @@ Here’s a standard setup for a Streamlit + text generation notebook:
 streamlit
 
 ---
+
 
 
